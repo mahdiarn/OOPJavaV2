@@ -98,4 +98,14 @@ public class KelelawarTest {
         assertTrue(instance.getX() == 100);
         assertTrue(instance.getY() == 1000);
     }
+    @Test
+    /**
+     * Testing render, of class Kelelawar.
+     */
+    public void testRender() {
+        System.out.println("Test Render");
+        Kelelawar instance;
+        instance = new Kelelawar();
+        instance.Render();
+    }
 }

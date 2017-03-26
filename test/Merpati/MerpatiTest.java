@@ -98,4 +98,11 @@ public class MerpatiTest {
         assertTrue(instance.getX() == 100);
         assertTrue(instance.getY() == 1000);
     }
+    @Test
+    public void testRender() {
+        System.out.println("Test Render");
+        Merpati instance;
+        instance = new Merpati();
+        instance.Render();
+    }
 }

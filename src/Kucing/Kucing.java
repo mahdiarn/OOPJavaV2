@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 package Kucing;
-
+import Renderable.Renderable;
 /**
  *
  * @author Mahdiar Naufal
  */
-public class Kucing {
+public class Kucing implements Renderable{
     //Atribut
     public int weight;
     public int tipe;
@@ -72,5 +72,10 @@ public class Kucing {
     }
     public int getY () {
         return location_y;
+    }
+    
+    @Override
+    public void Render() {
+        System.out.print("K");
     }
 }

@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 package Beruang;
-
+import Renderable.Renderable;
 /**
  *
  * @author Mahdiar Naufal
  */
-public class Beruang {
+public class Beruang implements Renderable {
     //Atribut
     public int weight;
     public int tipe;
@@ -72,5 +72,10 @@ public class Beruang {
     }
     public int getY () {
         return location_y;
+    }
+
+    @Override
+    public void Render() {
+        System.out.print("B");
     }
 }

@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 package Cendrawasih;
-
+import Renderable.Renderable;
 /**
  *
  * @author Mahdiar Naufal
  */
-public class Cendrawasih {
+public class Cendrawasih implements Renderable{
     //Atribut
     public int weight;
     public int tipe;
@@ -72,5 +72,9 @@ public class Cendrawasih {
     }
     public int getY () {
         return location_y;
+    }
+    @Override
+    public void Render() {
+        System.out.print("C");
     }
 }

@@ -98,4 +98,11 @@ public class KucingTest {
         assertTrue(instance.getX() == 100);
         assertTrue(instance.getY() == 1000);
     }
+    @Test
+    public void testRender() {
+        System.out.println("Test Render");
+        Kucing instance;
+        instance = new Kucing();
+        instance.Render();
+    }
 }

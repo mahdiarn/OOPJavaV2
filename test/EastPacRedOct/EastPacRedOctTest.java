@@ -98,4 +98,14 @@ public class EastPacRedOctTest {
         assertTrue(instance.getX() == 100);
         assertTrue(instance.getY() == 1000);
     }
+    @Test
+    /**
+     * Testing render, of class EastPacRedOct.
+     */
+    public void testRender() {
+        System.out.println("Test Render");
+        EastPacRedOct instance;
+        instance = new EastPacRedOct();
+        instance.Render();
+    }
 }

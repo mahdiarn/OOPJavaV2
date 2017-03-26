@@ -98,4 +98,14 @@ public class ElangTest {
         assertTrue(instance.getX() == 100);
         assertTrue(instance.getY() == 1000);
     }
+    @Test
+    /**
+     * Testing render, of class Elang.
+     */
+    public void testRender() {
+        System.out.println("Test Render");
+        Elang instance;
+        instance = new Elang();
+        instance.Render();
+    }
 }

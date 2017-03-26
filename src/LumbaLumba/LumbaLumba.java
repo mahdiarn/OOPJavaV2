@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 package LumbaLumba;
-
+import Renderable.Renderable;
 /**
  *
  * @author Mahdiar Naufal
  */
-public class LumbaLumba {
+public class LumbaLumba implements Renderable{
     //Atribut
     public int weight;
     public int tipe;
@@ -72,5 +72,9 @@ public class LumbaLumba {
     }
     public int getY () {
         return location_y;
+    }
+    @Override
+    public void Render() {
+        System.out.print("L");
     }
 }
