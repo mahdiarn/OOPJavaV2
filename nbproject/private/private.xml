@@ -5,8 +5,8 @@
         <group>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Panda/Panda.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Rajawali/Rajawali.java</file>
-            <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Kucing/Kucing.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Cendrawasih/Cendrawasih.java</file>
+            <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Kucing/Kucing.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Kucing/KucingTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/BigBlueOct/BigBlueOctTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Harimau/Harimau.java</file>
@@ -16,13 +16,14 @@
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Kelelawar/Kelelawar.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Kuda/KudaTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Ebosia/Ebosia.java</file>
-            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Panda/PandaTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/EastPacRedOct/EastPacRedOctTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Kelelawar/KelelawarTest.java</file>
+            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Panda/PandaTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Singa/Singa.java</file>
-            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Zebra/ZebraTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Lionfish/LionfishTest.java</file>
+            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Zebra/ZebraTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Jerapah/JerapahTest.java</file>
+            <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Renderable/Renderable.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/BigBlueOct/BigBlueOct.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/HiuPutih/HiuPutih.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/HiuPutih/HiuPutihTest.java</file>
@@ -30,8 +31,8 @@
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Harimau/HarimauTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Okapi/Okapi.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Penyu/Penyu.java</file>
-            <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Jerapah/Jerapah.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/EastPacRedOct/EastPacRedOct.java</file>
+            <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Jerapah/Jerapah.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Merpati/Merpati.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Singa/SingaTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Beruang/Beruang.java</file>
@@ -41,9 +42,9 @@
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Beruang/BeruangTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Lionfish/Lionfish.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Merpati/MerpatiTest.java</file>
-            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Okapi/OkapiTest.java</file>
-            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Ebosia/EbosiaTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Cendrawasih/CendrawasihTest.java</file>
+            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Ebosia/EbosiaTest.java</file>
+            <file>file:/C:/Users/user/Desktop/OOPJavaV2/test/Okapi/OkapiTest.java</file>
             <file>file:/C:/Users/user/Desktop/OOPJavaV2/src/Kuda/Kuda.java</file>
         </group>
     </open-files>
